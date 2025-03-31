@@ -1,6 +1,6 @@
 # Power-Bi-Project1
-##Project Objective
-#To develop a comprehensive credit
+#Project Objective
+##To develop a comprehensive credit
 card weekly dashboard that
 provides real-time insights into key
 performance metrics and trends,
